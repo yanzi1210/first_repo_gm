@@ -1,3 +1,3 @@
 # first_repo_gm
 
-this is a test repo to pull infirst excel file
+this is a test repo to pull in first excel file
